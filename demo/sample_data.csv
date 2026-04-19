@@ -1,0 +1,21 @@
+plot_id,species,count,date_surveyed,site_name,observer
+P001,Shorea robusta,24,2024-03-12,Terai Lowland,A. Naufal
+P001,Tectona grandis,11,2024-03-12,Terai Lowland,A. Naufal
+P001,Dipterocarpus turbinatus,7,2024-03-12,Terai Lowland,A. Naufal
+P001,Acacia mangium,3,2024-03-12,Terai Lowland,A. Naufal
+P001,Ficus religiosa,2,2024-03-12,Terai Lowland,A. Naufal
+P002,Shorea robusta,18,2024-03-14,Terai Lowland,A. Naufal
+P002,Tectona grandis,15,2024-03-14,Terai Lowland,A. Naufal
+P002,Dalbergia sissoo,9,2024-03-14,Terai Lowland,A. Naufal
+P002,Syzygium cumini,6,2024-03-14,Terai Lowland,A. Naufal
+P003,Quercus robur,14,2024-04-02,Cotswold Coppice,R. Bennett
+P003,Fagus sylvatica,12,2024-04-02,Cotswold Coppice,R. Bennett
+P003,Betula pendula,8,2024-04-02,Cotswold Coppice,R. Bennett
+P003,Corylus avellana,5,2024-04-02,Cotswold Coppice,R. Bennett
+P003,Fraxinus excelsior,4,2024-04-02,Cotswold Coppice,R. Bennett
+P004,Quercus robur,32,2024-04-05,Cotswold Coppice,R. Bennett
+P004,Fagus sylvatica,2,2024-04-05,Cotswold Coppice,R. Bennett
+P004,Betula pendula,1,2024-04-05,Cotswold Coppice,R. Bennett
+P005,Dipterocarpus turbinatus,13,2024-05-18,Seima Protection Forest,K. Sokha
+P005,Shorea robusta,10,2024-05-18,Seima Protection Forest,K. Sokha
+P005,Acacia mangium,5,2024-05-18,Seima Protection Forest,K. Sokha
